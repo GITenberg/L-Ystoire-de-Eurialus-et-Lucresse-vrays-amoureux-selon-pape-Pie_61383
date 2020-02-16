@@ -1,0 +1,29 @@
+_repo: L-Ystoire-de-Eurialus-et-Lucresse-vrays-amoureux-selon-pape-Pie_61383
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Gelais, Octavien de Saint
+    gutenberg_agent_id: '51395'
+    url: http://www.gutenberg.org/2009/agents/51395
+creator:
+  author:
+    agent_name: II, Pope Pius
+    gutenberg_agent_id: '51394'
+    url: http://www.gutenberg.org/2009/agents/51394
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- FR Séduction et libertinage
+- FR Nouveautés
+gutenberg_issued: '2020-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61383'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'Ystoire de Eurialus et Lucresse, vrays amoureux, selon pape Pie
+url: http://www.gutenberg.org/ebooks/61383
